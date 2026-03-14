@@ -15,7 +15,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://fullstackbootcamp.dev',
+  url: 'https://fullstack.codewithtoni.com',
   baseUrl: '/',
 
   organizationName: 'AntonioKOD',
