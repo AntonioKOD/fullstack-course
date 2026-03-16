@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-primary-dark: #1d4ed8;
+  --color-surface: #f8fafc;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+/* Dark mode: use .dark on html or a parent */
+.dark {
+  color-scheme: dark;
+}

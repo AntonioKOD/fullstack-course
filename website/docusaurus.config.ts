@@ -175,7 +175,7 @@ const config: Config = {
             },
             {
               label: 'Share with a Friend',
-              href: `https://twitter.com/intent/tweet?text=Free%20full-stack%20bootcamp%20covering%20TypeScript%2C%20Next.js%2C%20NestJS%20%26%20more%3A&url=https://fullstackbootcamp.dev`,
+              href: `https://twitter.com/intent/tweet?text=Free%20full-stack%20bootcamp%20covering%20TypeScript%2C%20Next.js%2C%20NestJS%20%26%20more%3A&url=https://fullstack.codewithtoni.com`,
             },
           ],
         },
