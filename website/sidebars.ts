@@ -5,7 +5,7 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
-      label: '📋 Phase 1 — Web Foundations',
+      label: 'Phase 1 — Web Foundations',
       collapsed: false,
       items: [
         {
@@ -87,12 +87,12 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🏗️ Project 1 — Front-End Application',
+      label: 'Project 1 — Front-End Application',
       items: ['project-01/overview', 'project-01/requirements', 'project-01/rubric'],
     },
     {
       type: 'category',
-      label: '⚙️ Phase 2 — Node.js Backend',
+      label: 'Phase 2 — Node.js Backend',
       collapsed: false,
       items: [
         {
@@ -173,12 +173,12 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🏗️ Project 2 — Full-Stack REST App',
+      label: 'Project 2 — Full-Stack REST App',
       items: ['project-02/overview', 'project-02/requirements', 'project-02/rubric'],
     },
     {
       type: 'category',
-      label: '🧠 Phase 3 — CS + Advanced Backend',
+      label: 'Phase 3 — CS + Advanced Backend',
       collapsed: false,
       items: [
         {
@@ -222,7 +222,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '⚛️ Phase 4 — Modern Frontend',
+      label: 'Phase 4 — Modern Frontend',
       collapsed: false,
       items: [
         {
@@ -291,7 +291,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🚀 Phase 5 — Production & Deployment',
+      label: 'Phase 5 — Production & Deployment',
       collapsed: false,
       items: [
         {
@@ -332,7 +332,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🏆 Capstone Project',
+      label: 'Capstone Project',
       items: [
         'capstone/overview',
         'capstone/requirements',
