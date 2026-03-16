@@ -9,6 +9,8 @@ title: Requirements
 
 Project 2 is a collaborative full-stack application built with a **React frontend**, **Express or NestJS backend**, and **PostgreSQL database via Prisma**. Teams of 2-3 students.
 
+**Starters:** [Download API starter (ZIP)](/downloads/project-02-api.zip) · [Download frontend starter (ZIP)](/downloads/project-02-frontend.zip)
+
 ## Technical Requirements
 
 ### Backend (must have ALL)

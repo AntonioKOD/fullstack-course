@@ -9,6 +9,14 @@ title: Project 01 Overview
 
 Your first major project is a **collaborative front-end application** built with vanilla TypeScript, Tailwind CSS, and at least two public APIs. No frameworks — everything you've learned in Modules 1–6.
 
+## Starter files
+
+Download the Project 01 starter (Vite + TypeScript + Tailwind) and build from there:
+
+**[Download Project 01 starter (ZIP)](/downloads/project-01-frontend.zip)**
+
+After downloading, unzip, run `npm install`, copy `.env.example` to `.env`, and add your API keys. See the starter's README for setup steps.
+
 ## Timeline
 
 | Week | Goal |

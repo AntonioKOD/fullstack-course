@@ -9,6 +9,8 @@ title: Capstone Overview
 
 Your capstone is an **independent, production-grade full-stack application** of your own design. This is the project you'll demo in job interviews and feature at the top of your portfolio.
 
+You can start from scratch or use the [Project 02 starters](/project-02/overview#starter-files) (API + frontend) as a base and extend them for your capstone.
+
 ## What Makes a Great Capstone
 
 The best capstone projects:

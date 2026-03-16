@@ -54,6 +54,10 @@ Must include:
 4. What was the hardest challenge?
 5. What would you add with more time?
 
+## Get the starter
+
+[Download the Project 01 starter (ZIP)](/downloads/project-01-frontend.zip) and unzip it to get the suggested structure below.
+
 ## Suggested Tech Stack
 
 ```
